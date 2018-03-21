@@ -1,1 +1,1 @@
-echo "# pagseguro-extension"
+# pagseguro extension TastyIgniter
